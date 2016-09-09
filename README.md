@@ -1,6 +1,5 @@
 # python_sudoku_solver
 
-Sudoku solver based off of Peter Norvig's tutorial:  http://norvig.com/sudoku.html
 
 to run:
 ```
